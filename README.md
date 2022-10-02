@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NG-sama
+- 👋 Hi,
 - I am an individual with a versatile skillset and am currently working in the intersection of Bio/Tech. 
 - Hope you like my page and leave a comment to get in touch for collabs!
 
