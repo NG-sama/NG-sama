@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m a passionate IIT engineer turned biologist with over 4 years of experience in biotechnology. Currently, I’m working at the intersection of Bio and Tech, focusing on scaling GenAI-based products from inception to success.
+I’m a passionate IIT engineer turned biologist with over 4 years of experience in biotechnology. Currently, I’m working at the intersection of biotech and GenAI, focusing on scaling GenAI-based products from inception to success.
 
 ## 🚀 Key Highlights
 
