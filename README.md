@@ -17,8 +17,8 @@ Nikhil here. I’m an IIT engineer turned cancer biologist with over 4 years of 
 1. **Cancer Genomics:** Tackled the problems of sex-difference in clinical research by furthering our understandig of how sex difference plays a role in progression of MAFLD-based liver cancer progression.
 Feel free to explore my page and leave a comment if you’d like to collaborate or connect!
 2. **Publication & Courses:**
-   i.  Nikhil Gnanavel, et al., "Neuroimmune/Hematopoietic Axis Regulation by High-Mobility Group Box 1 and Tachykinin Peptides," J Immunol, vol. 204, no. 4, 15 Feb. 2020 [Link](https://doi.org/10.4049/jimmunol.1900582)
-   ii. Precision and Genomic Medicine, UCSF, 2020 [Link](https://coursera.org/share/e292c2a0aac815e78798aa30a86951e9)
+   -  Nikhil Gnanavel, et al., "Neuroimmune/Hematopoietic Axis Regulation by High-Mobility Group Box 1 and Tachykinin Peptides," J Immunol, vol. 204, no. 4, 15 Feb. 2020 [Link](https://doi.org/10.4049/jimmunol.1900582)
+   - Precision and Genomic Medicine, UCSF, 2020 [Link](https://coursera.org/share/e292c2a0aac815e78798aa30a86951e9)
 
 
 <!---
