@@ -1,6 +1,10 @@
-# 👋 Hi there!
+# 👋 Welcome to my page!
 
-Nikhil here. I’m an IIT engineer turned cancer biologist with over 4 years of experience in biotechnology. Currently, I’m working at the intersection of biotech and GenAI, focusing on scaling GenAI-based products from inception to success. I also have prior experience in femtech venture captial and cancer bioinformatics. Looking for open oppurtunities in upcoming companies in biotech, pharma and healthcare and also relevant projects to collaborate on in oncology and bioninformatics.
+Nikhil here. I am  a seasoned Analyst and clinical operations specialist with a strong track record in digital transformation and process optimization across biotech operations and biotech venture capital. At CellCarta Biosciences Inc., I successfully led projects that enhanced operational efficiency and delivered significant value.
+
+Currently, I am focused on collaborating with high-functioning teams and founders to develop innovative product solutions in the deep biotech and AI sectors. I excel at maintaining financial models, managing project budgets and timelines, and creating compelling fundraising presentations. My strategic insights help identify risks and devise effective mitigation strategies, ensuring project success.
+
+I am passionate about empowering founders and scaling startups through impactful go-to-market strategies. I enjoy engaging in coffee chats and discussions about biotech, venture capital, and digital transformation, always eager to share insights and foster connections in the industry.
 
 ## 🚀 Key Highlights
 
