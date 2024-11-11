@@ -11,7 +11,7 @@ I am passionate about empowering founders and scaling startups through impactful
 ### Industrial Expertise
 1. **Product Feature Discovery & Delivery:** Successfully delivered over 10 product features for internal information systems using A/B testing and Kaizen methodologies, significantly enhancing operational efficiency.
   
-2. **Digital Transformation & SaaS Integration:** Led and executed scalable multi-phase digital transformation projects across global sites, including the migration of legacy operations data and integration of cloud-based solutions like Snowflake.
+2. **Digital Transformation, Data Management & Governance:** Led and executed scalable multi-phase digital transformation projects across global sites, including the migration of legacy operations data and integration of cloud-based solutions like Snowflake.
 
 3. **Business Intelligence & Data Management:** Implemented business intelligence solutions to analyze market trends and product performance, resulting in a 20% increase in user engagement. Defined and implemented KPIs on finance & operations data pipelines, reducing data entry errors by 75%.
 
