@@ -113,7 +113,7 @@ __Long-term__: I want to work at the intersection of **credit risk infrastructur
 
 ## Connect
 
-I'm most interested in conversations with people working on production AI deployment, credit infrastructure, or clinical data systems, especially where the real challenge is making it hold up in a regulated environment. If that's you, I'd like to hear what you're building.
+I'm most interested in conversations with people working on *production AI deployment*, *credit infrastructure*, or *clinical data systems*, especially where the real challenge is making it hold up in a regulated environment. If that's you, I'd like to hear what you're building.
 
 I'm usually deep in a few projects at once, so I can be slow to reply. If you don't hear back right away, I haven't ignored you. A line or two on what you're working on and what you'd like to talk through makes it easier for me to respond properly.
 
@@ -122,5 +122,5 @@ I'm usually deep in a few projects at once, so I can be slow to reply. If you do
 ---
 
 <div align="center">
-<sub>Toronto · Building in public where I can · <code>last updated Jun 2026</code></sub>
+<sub>Toronto · Building in public where I can · <code>last updated Nov 2026</code></sub>
 </div>
