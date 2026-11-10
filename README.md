@@ -113,7 +113,9 @@ __Long-term__: I want to work at the intersection of **credit risk infrastructur
 
 ## Connect
 
-I'm not on here to network broadly. If you're working on something at the intersection of **production AI deployment**, **credit infrastructure**, or **clinical data systems** — and you want to have a real conversation about what that actually looks like inside a regulated environment — reach out.
+I'm most interested in conversations with people working on production AI deployment, credit infrastructure, or clinical data systems, especially where the real challenge is making it hold up in a regulated environment. If that's you, I'd like to hear what you're building.
+
+I'm usually deep in a few projects at once, so I can be slow to reply. If you don't hear back right away, I haven't ignored you. A line or two on what you're working on and what you'd like to talk through makes it easier for me to respond properly.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Gnanavel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-gnanavel)
 
